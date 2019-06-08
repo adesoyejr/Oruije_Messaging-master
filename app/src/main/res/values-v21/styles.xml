@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="cutomtheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="android:colorPrimaryDark">@color/OruijeBlue</item>
+    <item name="actionMenuTextColor">@color/OruijeBlue</item>
+    <item name="actionBarDivider">@color/OruijeGray</item>
+  </style>
+</resources>
